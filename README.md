@@ -30,3 +30,29 @@ Please cite this work using the Zenodo DOI once published.
 ---
 
 This submission marks a foundational contribution toward the final resolution of the Riemann Hypothesis through resonance-based spectral geometry.
+
+---
+
+## How to Cite This Work
+
+If you reference or build upon this proof, please cite the original work as follows:
+
+**APA**  
+Spurgatis, R. (2025). *The Harmonic Origin of Zeta: A Resonant Proof of the Riemann Hypothesis*. Zenodo. https://doi.org/10.5281/zenodo.15092513
+
+**MLA**  
+Spurgatis, Richard. *The Harmonic Origin of Zeta: A Resonant Proof of the Riemann Hypothesis*. Zenodo, 2025. DOI: 10.5281/zenodo.15092513
+
+**Chicago**  
+Spurgatis, Richard. 2025. *The Harmonic Origin of Zeta: A Resonant Proof of the Riemann Hypothesis*. Zenodo. https://doi.org/10.5281/zenodo.15092513
+
+**BibTeX**
+```bibtex
+@misc{spurgatis2025harmonic,
+  author       = {Richard Spurgatis},
+  title        = {The Harmonic Origin of Zeta: A Resonant Proof of the Riemann Hypothesis},
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15092513},
+  url          = {https://doi.org/10.5281/zenodo.15092513}
+}
