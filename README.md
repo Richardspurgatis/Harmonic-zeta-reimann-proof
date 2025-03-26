@@ -1,5 +1,7 @@
 # The Harmonic Origin of Zeta: A Resonant Proof of the Riemann Hypothesis
 
+[![DOI](https://zenodo.org/badge/955546463.svg)](https://doi.org/10.5281/zenodo.15092512)
+
 This repository contains the full submission and supplementary material for the paper:
 
 **Title:** The Harmonic Origin of Zeta: A Resonant Proof of the Riemann Hypothesis  
